@@ -1,2 +1,6 @@
 econ-ark==0.10.4
 tabulate
+matplotlib
+numpy
+pandas
+scipy
